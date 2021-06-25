@@ -2,16 +2,16 @@
 
 Program list :
 
-tizonia-all
+        tizonia-all
         
         sudo pacman -Syu tizonia-all log4c
         
 
-traverso
+        traverso
 
-yay
+        yay
 
-snapd
+        snapd
 
 and some dependicies compiled from AUR and private PKGBUILDs
 
