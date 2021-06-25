@@ -2,7 +2,7 @@
 
 Program list :
 
-tizonia-all
+tizonia-all (sudo pacman -Syu tizonia-all log4c)
 
 traverso
 
