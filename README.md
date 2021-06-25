@@ -1,11 +1,17 @@
 # ARCH_CUSTOM_PKG
 
 Program list :
+
 tizonia-all
+
 traverso
+
 BlueMoon
+
 yay
+
 snapd
+
              and some dependicies compiled from aur and private PKGBUILDs
 
 /etc/pacman.conf
