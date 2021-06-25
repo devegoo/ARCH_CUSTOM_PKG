@@ -6,8 +6,6 @@ tizonia-all
 
 traverso
 
-BlueMoon
-
 yay
 
 snapd
