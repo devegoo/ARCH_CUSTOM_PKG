@@ -12,7 +12,7 @@ yay
 
 snapd
 
-             and some dependicies compiled from aur and private PKGBUILDs
+             and some dependicies compiled from AUR and private PKGBUILDs
 
 /etc/pacman.conf
 
