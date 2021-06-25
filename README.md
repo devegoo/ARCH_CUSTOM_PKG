@@ -22,4 +22,8 @@ SigLevel = Optional TrustAll
 
 Server = https://raw.github.com/devegoo/ARCH_CUSTOM_PKG/main/$arch
 
-pacman -Sy
+
+
+and run:
+
+sudo pacman -Syu tizonia-all traverso BlueMoon yay snapd
